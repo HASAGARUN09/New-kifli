@@ -6,15 +6,6 @@
 ###########
  SHORTCUT
 ########### 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19062
-#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp0cLnDzJZ3PN3-nQ5Uyn2Ee1z9vRhUd0d7MnP_pswLeMqGlleDS-gH497&s=10" group-title="SHORTCUT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp0cLnDzJZ3PN3-nQ5Uyn2Ee1z9vRhUd0d7MnP_pswLeMqGlleDS-gH497&s=10" ch-number="1", Mandiri cup Shortcut 1
-https://spacetv.my.id/index.mpd?id=19062|User-Agent=VidioPlayer/6.31.6
-  
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=18037
-#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp0cLnDzJZ3PN3-nQ5Uyn2Ee1z9vRhUd0d7MnP_pswLeMqGlleDS-gH497&s=10" group-title="SHORTCUT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp0cLnDzJZ3PN3-nQ5Uyn2Ee1z9vRhUd0d7MnP_pswLeMqGlleDS-gH497&s=10" ch-number="1", mandiri cup shortcut 2
-https://spacetv.my.id/index.mpd?id=18037|User-Agent=VidioPlayer/6.31.6  
 
 
   
